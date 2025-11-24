@@ -3,7 +3,7 @@ package model;
 
 public class Veterinario {
 
-    private String crmv; // Identificação única e essencial
+    private String crmv; 
     private String nome;
     private String cpf;
     private String telefone;
