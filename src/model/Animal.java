@@ -36,7 +36,7 @@ public class Animal {
 
 
     public void colocarParaAdocao() {
-        this.tuto = null; // Remove o tutor atual
+        this.tuto = null;
         this.paraAdocao = true;
         System.out.println(this.nome + " está agora disponível para adoção.");
     }
